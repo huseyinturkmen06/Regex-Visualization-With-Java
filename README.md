@@ -1,2 +1,2 @@
 # Java-ile-gui-projesi
-Gui ile kullanıcıdan alınan regex, nfa türüne dönüştürülür  
+Gui ile kullanıcıdan alınan regex nfa türüne dönüştürülür  
